@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo anyo="1997">Introduction to Linux</titulo>		
+		<autores>
+			<autor>
+				<nombre>Machtelt</nombre>  
+				<apellidos>sjhaia</apellidos>
+			</autor>
+			
+			<autor>
+				<nombre>Garrels</nombre>  
+				<apellidos>apellido2</apellidos>
+			</autor>
+			
+			<autor>
+				<nombre>fdfsdfdsfdsfs</nombre>  
+				<apellidos>dsjdisad</apellidos>
+			</autor>
+				 
+		</autores>
+		
+		<editor>O'Reilly</editor>
+		<paginas>256</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="1991">El lenguaje de programación C</titulo>
+		<autores>
+			<autor>
+				<nombre>Kernighan</nombre>  
+				<apellidos>penecillo</apellidos>
+			</autor>
+			<autor>
+				<nombre>Ritchie</nombre>  
+				<apellidos>apellido2</apellidos>
+			</autor>	 
+		</autores>
+		<editor>Prentice Hall</editor>
+		<paginas>294</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="1995">Algo</titulo>
+		<autores>
+			<autor>
+				<nombre>Kernighan</nombre>  
+				<apellidos>sjhaia</apellidos>
+			</autor>
+			<autor>
+				<nombre>Ritchie</nombre>  
+				<apellidos>apellido2</apellidos>
+			</autor>	 
+		</autores>
+		<editor>Prentice Hall</editor>
+		<paginas>294</paginas>
+	</libro>
+</biblioteca>
